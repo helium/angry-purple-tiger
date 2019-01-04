@@ -10,7 +10,6 @@
     "test:only": "mocha --require babel-core/register --require babel-polyfill --recursive",
     "test:watch": "yarn test -- --watch",
     "test:examples": "node examples/",
-
     "cover": "istanbul cover _mocha -- --require babel-core/register --require babel-polyfill --recursive",
     "lint": "eslint src test",
     "build": "cross-env BABEL_ENV=production babel src --out-dir lib",
