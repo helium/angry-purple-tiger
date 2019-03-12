@@ -118,7 +118,7 @@ export default [
   'raisin',
   'orchid',
   'mulberry',
-  'medallion',
+  'carbon',
   'slate',
   'sky',
   'navy',
