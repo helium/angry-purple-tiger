@@ -1,6 +1,6 @@
 {
   "name": "angry-purple-tiger",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "animal-based hash digests for humans",
   "main": "./lib/index.js",
   "scripts": {
