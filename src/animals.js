@@ -253,6 +253,6 @@ export default [
   'wallaby',
   'shrew',
   'goblin',
-  'blobfish',
+  'tuna',
   'mustang'
 ];
