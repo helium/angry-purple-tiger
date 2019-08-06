@@ -122,7 +122,7 @@ export default [
   'noisy',
   'upbeat',
   'quiet',
-  'rapping',
+  'dandy',
   'raspy',
   'rhythmic',
   'daring',
