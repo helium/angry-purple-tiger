@@ -147,7 +147,7 @@ export default [
   'pony',
   'porcupine',
   'puma',
-  'racoon',
+  'raccoon',
   'reindeer',
   'rhino',
   'skunk',
