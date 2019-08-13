@@ -176,7 +176,7 @@ export default [
   'tangy',
   'tart',
   'rich',
-  'rurual',
+  'rural',
   'urban',
   'breezy',
   'bumpy',
