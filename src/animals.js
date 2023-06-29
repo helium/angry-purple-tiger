@@ -211,7 +211,7 @@ export default [
   'terrier',
   'duck',
   'sealion',
-  'raccoon',
+  'axolotl',
   'chipmunk',
   'loris',
   'poodle',
